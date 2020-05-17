@@ -10,7 +10,7 @@ $ python3 aslan.py
 ```
 # screenshot
 <img src="https://e.top4top.io/p_1598dliag0.jpg">
-<br>
+
 ```
 Author  : AslanSploit
 Team    : Indonesian Necoder
