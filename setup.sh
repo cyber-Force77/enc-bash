@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+#Decompile By Aslanforce77
+#Github : https://github.com/cyber-Force77
+#Instagram : https://instagram.com/aslan.sploit\n
+AslanSploit=$(mktemp)
+base64 -d  >${AslanSploit}<<Necoder
+IyEvdXNyL2Jpbi9iYXNoCgpwcmludGYgIlshXSBJbnN0YWxsZWQgUHl0aG9uLCBOb2RlanMsIEdp
+dFxuIgphcHQgaW5zdGFsbCBweXRob24gbm9kZWpzIGdpdCAteSAmPiAvZGV2L251bGwKcHJpbnRm
+ICJbIV0gSW5zdGFsbGVkIEJhc2gtT2JmdXNjYXRlXG4iCm5wbSBpbnN0YWxsIC1nIGJhc2gtb2Jm
+dXNjYXRlICY+IC9kZXYvbnVsbApwcmludGYgIlshXSBJbnN0YWxsZWQgQmFzaGZ1c2NhdG9yXG4i
+CmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vQmFzaGZ1c2NhdG9yL0Jhc2hmdXNjYXRvciAm
+PiAvZGV2L251bGw7Y2QgQmFzaGZ1c2NhdG9yO3B5dGhvbjMgc2V0dXAucHkgaW5zdGFsbCAmPiAv
+ZGV2L251bGw7cm0gLXJmIEJhc2hmdXNjYXRvci8gJj4gL2Rldi9udWxsCnByaW50ZiAiW+Kck10g
+SW5zdGFsbGVkIFN1Y2Nlc2Z1bGx5XG4iCmV4aXQK
+Necoder
+source ${AslanSploit}
+rm -rf ${AslanSploit}

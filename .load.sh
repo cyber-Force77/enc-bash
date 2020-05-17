@@ -1,0 +1,2 @@
+#!/bin/bash
+   "${@/Z\)Z.N}"  pr"${@/zCHP}"i$'\u006et'${*~}f   %s   "$(    "${@~}" p'r'i""n"""t"${*//RPn.a#/ls\"PCA@D}f   "CmxvYWQoKXsKcHJpbnRmICJcMDMzWzE7MzdtW1wwMzNbMTszMW3igKJcMDMzWzE7MzdtXVwwMzNbMTszNm1QbGVhc2Ugd2FpdFwwMzNbMTszMm0iCnNsZWVwIDEKcHJpbnRmICIuIgpzbGVlcCAxCnByaW50ZiAiLiIKc2xlZXAgMQpwcmludGYgIi5cbiIKc2xlZXAgMQp9CmxvYWQK"  ${@~} ${@^}   |   ${!*} b\a"s"e\64 -d  ${*~~}      )"  ${*^^}  |   ${*~~} ${*,} ""$'\x62'\ash   "${@^^}"   
